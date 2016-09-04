@@ -1,0 +1,47 @@
+<BODY>
+<TABLE BORDER="0" CELLPADDING="0" CELLSPACING="0" WIDTH="570"> <TR>
+<TD> <IMG SRC="roof.gif" BORDER="0" HEIGHT="45" WIDTH="124"> </TD>
+<TD COLSPAN="4">
+<IMG SRC="logo.gif" BORDER="0" HEIGHT="45" WIDTH="446"> </TD>
+</TR>
+<TR>
+<TD VALIGN="top" ROWSPAN="7" WIDTH="124"> <IMG SRC="building.gif" BORDER="0" HEIGHT="248" WIDTH="124"> </TD>
+<TD ROWSPAN="7" VALIGN="top" WIDTH="185">
+<IMG SRC="headline.gif" BORDER="0" HEIGHT="45" WIDTH="185"> And now, thanks to our merger with Massive Industries, we are now the world's largest manufacturer of Gadgets&#153; and
+other useless products. <BR><BR>
+To learn more about our products or our growing monopoly,
+click on any of the links to the right. </TD>
+<TD ROWSPAN="3" WIDTH="68" VALIGN="top"> <IMG SRC="curve.gif" BORDER="0" HEIGHT="108" WIDTH="68"> </TD>
+<TD COLSPAN="2" WIDTH="193" VALIGN="top"> <IMG SRC="blank.gif" BORDER="0" HEIGHT="35" WIDTH="193">
+</TD>
+</TR>
+<TR>
+<TD COLSPAN="2" WIDTH="193" VALIGN="top"> <IMG SRC="widgets.gif" BORDER="0" HEIGHT="35" WIDTH="193"> </TD>
+</TR>
+<TR> <TD COLSPAN="2" WIDTH="193" VALIGN="top">
+<IMG SRC="gadgets.gif" BORDER="0" HEIGHT="38" WIDTH="193"> </TD> </TR>
+254
+H T M L : T h e C o m p l e t e R e f e r e n c e
+PRESENTATIONAND LAYOUT
+C h a p t e r 7 : L a y o u t w i t h T a b l e s
+255
+<TR>
+<TD COLSPAN="2" ROWSPAN="4" WIDTH="136" VALIGN="top"> <IMG SRC="gear.gif" BORDER="0" HEIGHT="140" WIDTH="136">
+</TD>
+<TD VALIGN="top" WIDTH="125"> <IMG SRC="sales.gif" BORDER="0" HEIGHT="29" WIDTH="125">
+</TD>
+</TR>
+<TR>
+<TD VALIGN="top" WIDTH="125"> <IMG SRC="about.gif" BORDER="0" HEIGHT="36" WIDTH="125">
+</TD> </TR>
+<TR>
+<TD VALIGN="top" WIDTH="125">
+<IMG SRC="history.gif" BORDER="0" HEIGHT="35" WIDTH="125"> </TD> </TR>
+<TR> <TD VALIGN="top" WIDTH="125">
+<IMG SRC="map.gif" BORDER="0" HEIGHT="40" WIDTH="125">
+</TD> </TR>
+<TR> <TD COLSPAN="2" WIDTH="309">&nbsp;</TD> <TD WIDTH="68">&nbsp;</TD>
+<TD WIDTH="68">&nbsp;</TD> <TD VALIGN="top" WIDTH="125">
+<IMG SRC="lowcurve.gif" BORDER="0" HEIGHT="31" WIDTH="125">
+</TD> </TR>
+</TABLE> </BODY> </HTML>
